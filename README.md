@@ -6,7 +6,7 @@ PromptLab is a Streamlit application for analyzing, optimizing, executing, and c
 
 - Prompt analysis for objective, context, ambiguity, constraints, and output format.
 - Prompt optimization using role-based, context-injection, and structured-output techniques.
-- Side-by-side execution of original and optimized prompts.
+- Selectable response tone (Professional, Friendly, Academic, or Humorous) and side-by-side execution of original and optimized prompts.
 - Five-criterion rubric: relevance, completeness, instruction compliance, output format compliance, and factual support.
 - Interactive score chart, percentage change, SQLite persistence, and JSON report export.
 - Local demo mode works without an API key; Gemini integration is enabled with `GEMINI_API_KEY`.
